@@ -1,0 +1,8 @@
+sudo apt‐get install libtool openssh-server samba git-core g++ make diffstat subversion gawk chrpath libsm6 libxrender1
+
+sudo apt-get install gnupg flex bison gperf build-essential zip curl zlib1g-dev libc6-dev lib32ncurses5-dev
+
+sudo apt-get install lib32z1 lib32ncurses5 x11proto-core-dev libx11-dev libreadline-gplv2-dev lib32z1-dev
+
+sudo apt-get install libgl1-mesa-dev g++ -multilib binutils-mingw-w64 tofrodos python-markdown libxml2-utils xsltproc genisoimage python-imaging bc
+
